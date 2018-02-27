@@ -1,0 +1,7 @@
+Version 1.0
+Edited Block description
+-------------------------------
+Version 0.9.0
+Empty css directory deleted
+Block Controller:   Added translation method to getBlockTypeName()
+Block Controller:   $blockStyles deleted from controller, added to form.php,  translation method added

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btPcShooterChShowPageTitle">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+        <field name="desc_true" type="I1">
+            <unsigned />
+            <default value="1" />
+        </field>
+        <field name="block_css_style" type="C" size="255">
+        </field>
+        <field name="block_css_id" type="C" size="255">
+        </field>
+        <field name="block_css_class" type="C" size="255">
+        </field>
+        <field name="title_css_class" type="C" size="255">
+        </field>
+        <field name="desc_css_class" type="C" size="255">
+        </field>
+    </table>
+</schema>
