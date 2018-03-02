@@ -17,3 +17,12 @@ You may choose between two predefined Styles:
 ...Or add your own CSS-Classes to each element. Naturally, as every block in C5, you may style it with the integrated Design Feature.
 
 This Add-On is fully translatable. German is included, French and others will follow. For further information about translations, contact me.
+
+## Screenshots:
+
+
+- ![Add Block](https://toesslab.ch/application/files/7915/2002/3343/pc_shooter_ch_show_page_title_screenshot_0_1397301190.png)
+- ![Block Style](https://toesslab.ch/application/files/4915/2002/3342/pc_shooter_ch_show_page_title_screenshot_2_1397301191_1.png)
+- ![CSS classes](https://toesslab.ch/application/files/7915/2002/3339/pc_shooter_ch_show_page_title_screenshot_3_1397301191.png)
+- ![Description CSS class](https://toesslab.ch/application/files/6515/2002/3338/pc_shooter_ch_show_page_title_screenshot_4_1397301191.png)
+- ![Result](https://toesslab.ch/application/files/7115/2002/3338/pc_shooter_ch_show_page_title_screenshot_5_1397301191.png)
